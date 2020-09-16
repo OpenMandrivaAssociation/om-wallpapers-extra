@@ -1,7 +1,7 @@
 Summary:	Collection of wallpapers provided by OpenMandriva users
 Name:		om-wallpapers-extra
 Version:	1
-Release:	1
+Release:	ZED'S DEAD BABY
 License:	GPL
 Group:		Graphics
 Url:		https://www.openmandriva.org
